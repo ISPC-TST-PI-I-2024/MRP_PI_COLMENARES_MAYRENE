@@ -3,7 +3,7 @@ Profesor C.GONZALO VERA
 
 Estudiante MAYRENE COLMENARES
 
-##TP1. Introduccion al IoT- 13/04/2024
+## TP1. Introduccion al IoT- 13/04/2024
 
 **Trabajo Práctico #1: Introducción al IoT**
 
