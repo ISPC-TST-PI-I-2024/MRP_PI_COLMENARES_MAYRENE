@@ -46,3 +46,14 @@ simulación en Wokwi para validar los programas desarrollados.
 2. Primera aproximación a un entrenador básico.
 3. Practica con sensores y actuadores digitales.
 4. Primera aproximación a un controlador.
+
+**Trabajo Práctico #4: Trabajo Práctico**
+
+**Objetivos**
+1. Afianzar fundamentos de programación en C/C++.
+2. Afianzar fundamentos de herramientas de desarrollo (simuladores, ide)
+3. Afianzar fundamentos de sensores y actuadores básicos. 
+
+
+
+
