@@ -20,10 +20,10 @@
 
 
 ### Objetivos:
-• Practicas con el framework de Arduino en VsCode.
+1. Practicas con el framework de Arduino en VsCode.
 
-• Primera aproximación a un entrenador básico.
+2. Primera aproximación a un entrenador básico.
 
-• Practica con sensores y actuadores digitales.
+3. Practica con sensores y actuadores digitales.
 
-• Primera aproximación a un controlador.
+4. Primera aproximación a un controlador.
