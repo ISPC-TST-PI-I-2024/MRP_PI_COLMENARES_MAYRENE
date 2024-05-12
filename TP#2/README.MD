@@ -1,4 +1,4 @@
-![logo](/.rsc/img/Logo.png)
+![logo](./Recursos/Visuales/image.png)
 
 # TP2 - Fundamentos de Programación IoT y Módulos de Desarrollo - 21/04/2024  
 
