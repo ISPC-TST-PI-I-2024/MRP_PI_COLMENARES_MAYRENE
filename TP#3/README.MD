@@ -11,12 +11,12 @@
 
         A. Requisitos 
 
-        B. Investigacion
+        B. Entrenador
 
         C. Prototipos
 
 	D. Presentación
-	
+			
 
 
 ### Objetivos:
