@@ -25,6 +25,8 @@ desarrollo de proyectos.
 
 **Trabajo Práctico #2: Fundamentos de Programación IoT y Módulos de Desarrollo**
 
+[TP#2](https://github.com/ISPC-TST-PI-I-2024/MRP_PI_COLMENARES_MAYRENE/tree/4e6ebd684fcddf1ecc8e9fe8da6f944451e311fe/TP%232)
+
 **Objetivos**
 
 1. Entender y aplicar los fundamentos de la programación en 
@@ -42,6 +44,8 @@ simulación en Wokwi para validar los programas desarrollados.
 
 **Trabajo Práctico #3: Transductores binarios**
 
+[TP#3](https://github.com/ISPC-TST-PI-I-2024/MRP_PI_COLMENARES_MAYRENE/tree/4e6ebd684fcddf1ecc8e9fe8da6f944451e311fe/TP%233)
+
 **Objetivos**
 
 1. Practicas con el framework de Arduino en VsCode.
@@ -51,10 +55,14 @@ simulación en Wokwi para validar los programas desarrollados.
 
 **Trabajo Práctico #4: Trabajo Práctico**
 
+[TP#4](https://github.com/ISPC-TST-PI-I-2024/MRP_PI_COLMENARES_MAYRENE/tree/4e6ebd684fcddf1ecc8e9fe8da6f944451e311fe/TP%234)
+
 **Objetivos**
 1. Afianzar fundamentos de programación en C/C++.
 2. Afianzar fundamentos de herramientas de desarrollo (simuladores, ide)
-3. Afianzar fundamentos de sensores y actuadores básicos. 
+3. Afianzar fundamentos de sensores y actuadores básicos.
+
+
 
 
 
