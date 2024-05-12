@@ -3,7 +3,7 @@ Profesor C.GONZALO VERA
 
 Estudiante MAYRENE COLMENARES
 
-## TP1. Introduccion al IoT- 13/04/2024
+## Monorepositorio destinado a los TP de la Materia Proyecto Integrador
 
 **Trabajo Práctico #1: Introducción al IoT**
 
@@ -21,46 +21,28 @@ utilizar herramientas de desarrollo clave como Visual Studio Code
 (VsCode), comprendiendo su importancia en la programación y
 desarrollo de proyectos.
 
-**Desarrollo**
+**Trabajo Práctico #2: Fundamentos de Programación IoT y Módulos de Desarrollo**
 
-**Parte 1: Investigación sobre IoT**
+**Objetivos**
 
-1. Definición y Aplicaciones del IoT: Investigar y redactar un breve
-ensayo (250-300 palabras) sobre qué es el Internet de las Cosas
-(IoT), incluyendo al menos tres aplicaciones prácticas en
-diferentes industrias.
-2. Impacto del IoT: Reflexionar sobre cómo el IoT puede
-transformar la vida cotidiana y los negocios en el futuro. Identificar
-un problema actual que podría ser resuelto mediante la
-implementación de una solución basada en IoT.
+1. Entender y aplicar los fundamentos de la programación en 
+Arduino y MicroPython en el contexto de IoT, enfocándose en el 
+manejo de entradas y salidas digitales y analógicas.
+2. Desarrollar habilidades prácticas en el uso de módulos de 
+desarrollo y shields para ESP32, explorando diversas 
+aplicaciones de los módulos en proyectos IoT.
+3. Implementar controladores básicos utilizando ESP32, que 
+gestionen efectivamente entradas y salidas tanto digitales como 
+analógicas.
+4. Familiarizarse con las herramientas de desarrollo como 
+PlatformIO y RT-Thread en Visual Studio Code y utilizar la 
+simulación en Wokwi para validar los programas desarrollados.
 
-**Parte 2: Introducción a Git y GitHub**
+**Trabajo Práctico #3: Transductores binarios**
 
-1. Creación de una Cuenta en GitHub: Si aún no tienes una, crea
-una cuenta en GitHub.
-2. Tutorial de Git/GitHub: Completar un tutorial básico de Git y
-GitHub. https://classroom.github.com/a/iAxy1U65
-3. Informe de Aprendizaje: Escribir un resumen de lo aprendido en
-el tutorial.
+**Objetivos**
 
-**Parte 3: Exploración de Herramientas de Desarrollo**
-
-1. Instalación de Visual Studio Code (VsCode): Descargar e
-instalar VsCode desde su sitio oficial.
-2. Configuración Inicial: Configurar VsCode instalando las
-extensiones recomendadas para el desarrollo de IoT, como
-PlatformIO para desarrollo en Arduino y Python.
-3. Primer Proyecto: Crear un archivo simple de texto plano en
-VsCode y usar Git para hacer commit y push del archivo a un
-repositorio nuevo en tu cuenta de GitHub.
-
-Entrega:
-
-• El trabajo debe ser presentado en un repositorio con estructura de
-monorepositorio y formato acorde.
-
-• El ensayo sobre IoT.
-
-• El resumen del tutorial de Git/GitHub.
-
-• El primer proyecto.
+1. Practicas con el framework de Arduino en VsCode.
+2. Primera aproximación a un entrenador básico.
+3. Practica con sensores y actuadores digitales.
+4. Primera aproximación a un controlador.
