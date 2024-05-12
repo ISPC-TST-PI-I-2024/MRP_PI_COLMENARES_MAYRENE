@@ -9,13 +9,13 @@
 
 ## Resumen de Repositorio  TP#3   
 
-        0. Requisitos 
+        A. Requisitos 
 
-        1. Investigacion
+        B. Investigacion
 
-        2. Prototipos
+        C. Prototipos
 
-	3. Presentación
+	D. Presentación
 	
 
 
