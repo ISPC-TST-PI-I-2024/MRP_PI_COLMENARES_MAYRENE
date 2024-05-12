@@ -1,4 +1,4 @@
-![logo](/.rsc/img/Logo.png)
+![logo](/.recursos/visuales/image.png)
 
 Trabajo Práctico #1: Introducción al IoT  14/4/2024
 
